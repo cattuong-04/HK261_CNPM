@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": " Iphone 18 PRO MAX",
+    "price": 400000,
+    "cate_id": "1",
+    "image": "https://cdn1.viettelstore.vn/Images/Product/ProductImage/1989188678.png"
+  },
+  {
+    "id": "2",
+    "name": " Iphone 17 PRO MAX",
+    "price": 350000,
+    "cate_id": "2",
+    "image": "https://tb.dienmaycholon.vn/8kvbsueLv4h0u4CoQrrzt62DgJ8=/0x372/smart/filters:format(avif)/https://cdn11.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture/Apro/Apro_product_36999/iphone-17-pro-max-2tb-main--26.png"
+  },
+  {
+    "id": "3",
+    "name": " Iphone 16 PRO MAX",
+    "price": 300000,
+    "cate_id": "3",
+    "image": "https://cdn1.viettelstore.vn/Images/Product/ProductImage/1503657514.jpeg"
+  }
+]
