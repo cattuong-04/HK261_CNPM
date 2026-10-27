@@ -1,23 +1,44 @@
 [
   {
-    "id": "1",
-    "name": " Iphone 18 PRO MAX",
-    "price": 400000,
-    "cate_id": "1",
-    "image": "https://cdn1.viettelstore.vn/Images/Product/ProductImage/1989188678.png"
+    "id": 1,
+    "name": "Iphone 18",
+    "price": 30000,
+    "cate_id": 1,
+    "image": "https://res.cloudinary.com/dy1unykph/image/upload/v1740037805/apple-iphone-16-pro-natural-titanium_lcnlu2.webp"
   },
   {
-    "id": "2",
-    "name": " Iphone 17 PRO MAX",
-    "price": 350000,
-    "cate_id": "2",
-    "image": "https://tb.dienmaycholon.vn/8kvbsueLv4h0u4CoQrrzt62DgJ8=/0x372/smart/filters:format(avif)/https://cdn11.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture/Apro/Apro_product_36999/iphone-17-pro-max-2tb-main--26.png"
+    "id": 2,
+    "name": "Iphone Pro Max 15",
+    "price": 29000000,
+    "image": "https://res.cloudinary.com/dy1unykph/image/upload/v1729842193/iPhone_15_Pro_Natural_1_ltf9vr.webp",
+    "cate_id": 2
   },
   {
-    "id": "3",
-    "name": " Iphone 16 PRO MAX",
-    "price": 300000,
-    "cate_id": "3",
-    "image": "https://cdn1.viettelstore.vn/Images/Product/ProductImage/1503657514.jpeg"
+    "id": 3,
+    "name": "Galaxy Note",
+    "price": 29000000,
+    "image": "https://res.cloudinary.com/dy1unykph/image/upload/v1729091983/61896OtgvGL_xi09hb.jpg",
+    "cate_id": 3
+  },
+  {
+    "id": 4,
+    "name": "Iphone 13",
+    "price": 29000000,
+    "image": "https://res.cloudinary.com/dy1unykph/image/upload/v1729091944/refurb-iphone-13-pro-max-blue-2023_tuhb2j.jpg",
+    "cate_id": 2
+  },
+  {
+    "id": 5,
+    "name": "Iphone 14",
+    "price": 29000000,
+    "image": "https://res.cloudinary.com/dy1unykph/image/upload/v1729091915/refurb-iphone-14-pro-spaceblack-202404_zrfqfz.jpg",
+    "cate_id": 2
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy",
+    "price": 29000000,
+    "image": "https://res.cloudinary.com/dy1unykph/image/upload/v1729091967/419VTYVRD1L._AC__vih8qs.jpg",
+    "cate_id": 2
   }
 ]
